@@ -14,3 +14,6 @@ This project aims at using sample data to create a restaurant suggester. Having 
 2. Install Java 11, Maven.
 3. Run command mvn spring-boot:run
 
+## Sample data attached:
+
+/src/main/resources/data/restaurant.json
