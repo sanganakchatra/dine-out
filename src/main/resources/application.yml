@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: dineout
+    port: 8000
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: sample_restaurants
+logging:
+  level:
+    root: trace
